@@ -171,7 +171,7 @@ section {
 
 .section__pic-container {
   display: flex;
-  height: 1000px;
+  height: 1500px;
   width: 400px;
   margin: auto 0;
   padding: auto0;
@@ -319,6 +319,7 @@ section {
 
 #experience {
   position: relative;
+  height: fit-content;
 }
 
 .experience-sub-title {
